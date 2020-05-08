@@ -1,0 +1,2 @@
+# spotman
+Spotify Manager. 
